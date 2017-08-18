@@ -1,1 +1,1 @@
-###Y2, a beautiful lib for canvas.
+Y2, a beautiful lib for canvas.
