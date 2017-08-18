@@ -1,5 +1,5 @@
 /*
-Y2, a beautiful framework for canvas.
+Y2, a beautiful lib for canvas.
 code by yingyunhui, 2017.8.
 */
 (function(window,undefined){
